@@ -93,4 +93,4 @@ is flattened to:  (I've removed some whitespace to clean things up).
     /catalog/#text: 
     /catalog/: #END#
 
-An example is included which demonstrates how easy extacting information from the XML is in the file [RSSNews.java](src/ian/xml/RSSNews.java), extract information from yahoo RSS XML.
+An example is included which demonstrates how easy extacting information from this flattened XML structure. The example [RSSNews.java](src/ian/xml/RSSNews.java), extracts information from yahoo RSS XML and printes out the title, date, description and url link for each RSS item.
