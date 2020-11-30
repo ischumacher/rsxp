@@ -1,6 +1,6 @@
 # RSXP - Ridiculously simple XML parser
 
-RSXP uses flattens hierachical XML into a simple list. Paths ending in / are the start or end of tag block and which was is indicated by a value of #START# or #END#. Atributes paths end in @attribute-name. Text node paths end in #text
+RSXP flattens hierachical XML into a simple list. Paths ending in / are the start or end of tag block and which was is indicated by a value of #START# or #END#. Atributes paths end in @attribute-name. Text node paths end in #text
 
 For example the following XML:
 
